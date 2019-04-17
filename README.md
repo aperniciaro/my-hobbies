@@ -1,3 +1,3 @@
 # My Hobbies
 
-A page describing a hobby (scuba-diving) using HTML and CSS.
+A page describing a hobby (scuba-diving) using HTML.
